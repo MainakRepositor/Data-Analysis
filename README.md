@@ -13,4 +13,5 @@ Different types of data analytics projects : EDA, PDA, DDA, TSA and much more...
   <li><a href="https://github.com/MainakRepositor/Data-Analysis/blob/master/Mall_Customers_CLustering.ipynb">Mall Customer Clustering</a></li>
   <li><a href="https://github.com/MainakRepositor/Data-Analysis/blob/master/IPL_EDA.ipynb">IPL Explanatory Data Analysis</a></li>
   <li><a href="https://github.com/MainakRepositor/Data-Analysis/blob/master/Movie_Recommendation_Engine.ipynb">Movie Recommendation Engine</a></li>
+  <li><a href="https://github.com/MainakRepositor/Data-Analysis/blob/master/Suicide_Rate_Analysis.ipynb">Suicide Rate Analysis</a></li>
 </ol>
